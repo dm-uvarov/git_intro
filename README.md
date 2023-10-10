@@ -1,1 +1,2 @@
-Dmitry Uvarov
+Dmitry Uvarov 
+uvarovd@oregonstate.com
